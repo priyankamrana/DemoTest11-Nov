@@ -42,7 +42,7 @@ public class SendEmail {
 
 			// Send message
 			Transport.send(message);
-			System.out.println("message sent successfully....");
+			System.out.println("message sent...");
 
 		} catch (MessagingException mex) {
 			mex.printStackTrace();
