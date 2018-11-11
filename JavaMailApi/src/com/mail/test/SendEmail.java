@@ -12,7 +12,7 @@ import javax.mail.internet.MimeMessage;
 
 public class SendEmail {
 	public static void main(String[] args) {
-		String to = "abhisri5950@gmail.com";// change accordingly
+		String to = "priyankamrana@gmail.com";// change accordingly
 		String from = "abhisri5950@gmail.com";
 
 		// Get the session object
